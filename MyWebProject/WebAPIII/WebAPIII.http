@@ -1,0 +1,6 @@
+@WebAPIII_HostAddress = http://localhost:5276
+
+GET {{WebAPIII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
